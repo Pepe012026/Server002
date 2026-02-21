@@ -1,0 +1,17 @@
+{
+	id: "27ee9d34-9efc-3af8-89f3-3327210bb6fd"
+	type: "player"
+	player_name: "gutavovico"
+	ranks: {
+		27ee9d34-9efc-3af8-89f3-3327210bb6fd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "gutavovico"
+		"ftbteams:description": ""
+		"ftbteams:color": "#CFFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
